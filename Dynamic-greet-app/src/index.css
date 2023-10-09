@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(135deg,blue,purple,grey,black,hotpink);
+}
+#root{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: none;
+    font-family: sans-serif;
+}
