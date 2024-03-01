@@ -1,0 +1,67 @@
+.container{
+    background-color: rgb(227, 220, 208);
+    width: 100%;
+    border-radius: 2rem;
+    border: 15px;
+}
+.input{
+    margin: 10px;
+    border: none;
+    background-color: beige;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    font-size: 15px;
+    font-family: sans-serif;
+    border-radius: 1rem;
+    padding: 8px;
+    width: 50%;
+}
+.btn1{
+    background-color: rgb(18, 77, 20);
+    color: rgb(237, 227, 227);
+    width: 6rem;
+    margin: 10px;
+    padding: 7px 3px 7px 3px;
+    border: none;
+}
+.head{
+    color: rgb(16, 16, 16);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-top: 2rem;
+}
+.main{
+    background-color: rgb(197, 185, 155);
+    border-radius: 1rem 3rem 1rem 3rem;
+    margin: 10px 0 10px 0;
+}
+.dltbtn{
+    background-color: rgb(186, 46, 46);
+    color: aliceblue;
+    border: none;
+    margin: 10px;
+    width: 6rem;
+    padding: 7px 3px 7px 3px;
+    cursor: pointer;
+}
+.donebtn{
+    background-color: orangered;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    width: 6rem;
+    padding: 7px 3px 7px 3px;
+}
+.upperbtn{
+    background-color: black;
+    color: aliceblue;
+    width: 10rem;
+    padding: 8px 4px 8px 4px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+.span{
+    margin-right: 30px;
+    width: 10rem;
+}
